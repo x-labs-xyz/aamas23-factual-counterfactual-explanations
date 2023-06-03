@@ -1,6 +1,6 @@
 # Do Explanations Improve the Quality of AI-assisted Human Decisions? An Algorithm-in-the-Loop Analysis of the Effects of Factual \& Counterfactual Explanations
 
-This repository is the official implementation of [Do Explanations Improve the Quality of AI-assisted Human Decisions? An Algorithm-in-the-Loop Analysis of the Effects of Factual \& Counterfactual Explanations]() published in [The 22nd International Conference on Autonomous Agents and Multiagent Systems](https://aamas2023.soton.ac.uk/) in London, 29 May - 2 June 2023. 
+This repository is the official implementation of [Do Explanations Improve the Quality of AI-assisted Human Decisions? An Algorithm-in-the-Loop Analysis of the Effects of Factual \& Counterfactual Explanations]() published in [The 22nd International Conference on Autonomous Agents and Multiagent Systems]([https://aamas2023.soton.ac.uk/](https://dl.acm.org/doi/abs/10.5555/3545946.3598654)) in London, 29 May - 2 June 2023. 
 
 ## Directory Structure
 * `analysis`: contains all the analysis files used to generate data and figures used in publication
